@@ -1,2 +1,2 @@
 def reves_text(value):
-    print(value)
+    print(value[::-1])
